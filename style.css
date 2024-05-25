@@ -1,0 +1,20 @@
+html{
+    background-color: rgb(65, 65, 65);
+}
+
+body{
+    text-align: center;
+    margin: 100px 500px 0px 500px;
+}
+
+h1{
+    color: white;
+}
+
+form{
+    color: white;
+    padding: 30px;
+    background: linear-gradient(blue, purple);
+    border: solid white 2px;
+    border-radius: 15px;
+}
